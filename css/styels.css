@@ -1,0 +1,18 @@
+
+.logout-img{
+    width: 40px;
+    height: 40px;
+    position:absolute;
+    margin: 5px 5px;
+}
+.online{
+    height: 50px;
+    width: 50px;
+    background-color: #05B714;
+    border-radius: 50%;
+    position: relative;
+}
+#navbarSupportedContent a{
+    margin-top: 3px;
+    margin-right: 10px;
+}
