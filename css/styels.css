@@ -1,18 +1,23 @@
-
-.logout-img{
-    width: 40px;
-    height: 40px;
-    position:absolute;
-    margin: 5px 5px;
+#title{
+    background-color: #6E3CBC;
 }
-.online{
-    height: 50px;
+.logout-img{
     width: 50px;
-    background-color: #05B714;
+    height: 50px;
     border-radius: 50%;
-    position: relative;
+    position:absolute;
+    left: 5px;
+    top: 5px;
 }
 #navbarSupportedContent a{
-    margin-top: 3px;
-    margin-right: 10px;
+    margin-right: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.nav-itemX{
+    width: 60px;
+    height: 60px;
+    background-color: #219F94;
+    border-radius: 50%;
+    position: relative;
 }
