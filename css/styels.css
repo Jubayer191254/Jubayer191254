@@ -6,13 +6,14 @@
 .downbtn{
     margin: 5% 3% 20% 0;
 }
-.container{
-    padding: 3% 15%;
+#cf{
+    padding: 3% 10%;
 }
 .img1{
     width: 300px;
     transform: rotate(25deg);
     padding-left: 70px;
+    padding-bottom: 10px;
 }
 .f-box{
     text-align: center;
@@ -27,7 +28,7 @@
     cursor: pointer;
 }
 #features {
-    padding: 7% 15%;
+    padding: 2% 15%;
 }
 #features h3{
     font-family: 'Montserrat', sans-serif;
@@ -37,9 +38,9 @@
 }
 #title{
     background-color: #9921e8;
-background-image: linear-gradient(315deg, #9921e8 0%, #5f72be 74%);
+    background-image: linear-gradient(315deg, #9921e8 0%, #5f72be 74%);
     color: #fff;
-    padding-bottom: 30px;
+    
 }
 #navbarSupportedContent a{
     margin-right: 25px;
@@ -53,5 +54,36 @@ background-image: linear-gradient(315deg, #9921e8 0%, #5f72be 74%);
     padding-left: 0;
     padding-bottom: 4.5rem;
 }
+#testimonials{
+    padding: 5% 15% 5%; 
+    text-align: center;
+    background-color: #a4508b;
+    background-image: linear-gradient(326deg, #a4508b 0%, #8b1fbd 74%);
+    color: #fff;
+}
+#testimonials h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.me{
+    border-radius: 50%;
+    width: 100px;
+    margin: 20px;
+}
 
-
+.logos1{
+    width: 145px;
+    margin: 20px 20px 0px;
+    padding-top: 20px;
+}
+.logos2{
+    width: 70px;
+    margin: 20px 20px 0px;
+    padding-top: 20px;
+}
+.logos3{
+    width: 110px;
+    margin: 20px 20px 0px;
+    padding-top: 20px;
+}
