@@ -16,10 +16,10 @@ body{
     background-color: white;
     text-align: left;
     margin:auto;
-    margin-top: 4%;
-    border-radius:2%;
+    margin-top: 60px;
+    border-radius:15px;
     padding: 50px 100px 50px 100px;
-    width: 610px;
+    width: 1500px;
 }
 #login h2{
     font-family: 'Ubuntu', sans-serif;
