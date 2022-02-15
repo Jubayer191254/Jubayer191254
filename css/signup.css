@@ -18,7 +18,7 @@ body{
     margin:auto;
     margin-top: 60px;
     border-radius:15px;
-    padding: 50px 100px 50px 100px;
+    padding: 50px 100px 30px 100px;
     width: 1200px;
 }
 #login h2{
@@ -42,4 +42,15 @@ body{
     body{
         background-image: linear-gradient(315deg, #ffffff 0%, #ffffff 74%);
     }
+}
+.ret-home{
+    text-decoration: none;
+	color: #000000
+}
+.ret-home:hover{
+    text-decoration: none;
+	color: #6e6e6e
+}
+.gap{
+    padding-top: 15px;
 }
