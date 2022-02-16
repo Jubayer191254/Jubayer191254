@@ -16,15 +16,16 @@ body{
     background-color: white;
     text-align: left;
     margin:auto;
-    margin-top: 60px;
+    margin-top: 50px;
     border-radius:15px;
-    padding: 50px 100px 30px 100px;
+    padding: 50px 100px 50px 100px;
     width: 1200px;
 }
 #login h2{
     font-family: 'Ubuntu', sans-serif;
     font-size: 2.5rem;
     font-weight: bold;
+    padding-top: 30px;
 }
 .last{
     padding-bottom: 20px;
@@ -35,8 +36,8 @@ body{
     right: 10px;
     width: 350px;
     padding: 0;
-    top: 200px;
-    margin-bottom:250px;
+    top: 60px;
+    margin-bottom:100px;
 }
 @media (max-width:1600px){
     body{
@@ -53,4 +54,11 @@ body{
 }
 .gap{
     padding-top: 15px;
+}
+#log-title h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    padding-bottom: 20px;
+    padding-top: 30px;
 }
