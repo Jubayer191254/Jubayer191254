@@ -83,7 +83,7 @@
     padding-bottom: 50px;
 }
 .logos2{
-    width: 70px;
+    width: 210px;
     margin: 20px 20px 0px;
     padding-bottom: 50px;
 }
@@ -112,6 +112,7 @@
 }
 .p-col{
     padding: 3% 2%;
+    margin: auto;
 }
 #cta h3{
     font-family: 'Montserrat', sans-serif;
